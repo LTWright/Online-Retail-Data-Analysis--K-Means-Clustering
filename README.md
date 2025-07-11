@@ -26,17 +26,18 @@ Analyzed the data based on the proper number of clusters. Compared number of clu
 
 5. Analysis of Clusters
 
-Cluster 0 Blue - Retain. High Value Customers who purchase regularly.
-Cluster 1 Orange - Re-engage, lower value and infrequent buyers. Should be re-engaged into purchasing.
-Cluster 2 Green - Nurture - This cluster represents the least active and lowest value customers. Build a relationship and provide excellent customer service.
-Cluster 3 Red - Reward = High-Value very frequent customers. Implement a robust loyalty program.
+Provided 4 Customer Groups
+   Cluster 0 Blue - Retain. High Value Customers who purchase regularly.
+   Cluster 1 Orange - Re-engage, lower value and infrequent buyers. Should be re-engaged into purchasing.
+   Cluster 2 Green - Nurture - This cluster represents the least active and lowest value customers. Build a relationship and provide excellent customer service.
+   Cluster 3 Red - Reward = High-Value very frequent customers. Implement a robust loyalty program.
 
 6. Analysis of Outliers
 
-Provied 3 Further customer Groups
-Cluster -1 Pamper (Monetary Outliers) High spenders. Large value but infrequent customers. 
-Cluster -2 UPSELL (Frequency Outliers) Frequent Buyers. Customers that consistently engage.
-Cluster -3 DELIGHT (Monetary and Frequency Outliers) Most Valuable Outlier customer. Top Tier customers that require special attention.
+Provided 3 Further customer Groups
+   Cluster -1 Pamper (Monetary Outliers) High spenders. Large value but infrequent customers. 
+   Cluster -2 UPSELL (Frequency Outliers) Frequent Buyers. Customers that consistently engage.
+   Cluster -3 DELIGHT (Monetary and Frequency Outliers) Most Valuable Outlier customer. Top Tier customers that require special attention.
 
 7. Final Visualization
 
